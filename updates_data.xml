@@ -1,0 +1,25 @@
+<!-- <?xml version="1.0" encoding="UTF-8"?> -->
+<!-- <?xml version="1.0" encoding="UTF-8"?> -->
+<app_updates>
+<app1>
+    <description>Integrated ThinkSystem SD650 3D tour to product catalog</description>
+    <description>Integrated rack view for ThinkSystem SD650</description>
+    <description>Lorem ipsum dolor sit amet</description>
+    <description>Lorem ipsum dolor sit amet</description>
+    <description>Lorem ipsum dolor sit amet</description>
+</app1>
+<app2>
+    <description>Integrated ThinkSystem SD650 3D tour to product catalog</description>
+    <description>Integrated rack view for ThinkSystem SD650</description>
+    <description>Lorem ipsum dolor sit amet</description>
+    <description>Lorem ipsum dolor sit amet</description>
+    <description>Lorem ipsum dolor sit amet</description>
+</app2>
+<app3>
+    <description>Integrated ThinkSystem SD650 3D tour to product catalog</description>
+    <description>Integrated rack view for ThinkSystem SD650</description>
+    <description>Lorem ipsum dolor sit amet</description>
+    <description>Lorem ipsum dolor sit amet</description>
+    <description>Lorem ipsum dolor sit amet</description>
+</app3>
+</app_updates>
